@@ -5,7 +5,7 @@ import pino from 'pino';
 
 const logger = pino({ level: 'info' });
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const CONFIG_URL = 'https://raw.githubusercontent.com/USERNAME/indomaret-grogol-assets/main/config.json';
+const CONFIG_URL = 'https://raw.githubusercontent.com/rdpamin123/indomaret-grogol-assets/main/config.json';
 const LOCAL_CONFIG_PATH = path.join(__dirname, '..', 'config.local.json');
 const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 menit
 
