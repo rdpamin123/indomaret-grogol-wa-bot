@@ -1,0 +1,30 @@
+{
+  "brand": "INDOMARET GROGOL",
+  "menu": {
+    "title": "MENU PROMO",
+    "text": "Silakan pilih promo:",
+    "footer": "Ketik angka atau nama kategori"
+  },
+  "promos": {
+    "1": {
+      "title": "Paling Murah",
+      "image": "https://cdn.jsdelivr.net/gh/rdpamin123/indomaret-grogol-assets/promo/01-paling-murah.jpg",
+      "caption": "💸 Promo paling murah minggu ini!"
+    },
+    "2": {
+      "title": "Tebus Heboh",
+      "image": "https://cdn.jsdelivr.net/gh/rdpamin123/indomaret-grogol-assets/promo/02-tebus-heboh.jpg",
+      "caption": "🔥 Tebus hemat sekarang!"
+    },
+    "3": {
+      "title": "Beli Banyak",
+      "image": "https://cdn.jsdelivr.net/gh/rdpamin123/indomaret-grogol-assets/promo/03-beli-banyak.jpg",
+      "caption": "📦 Semakin banyak semakin hemat!"
+    },
+    "4": {
+      "title": "Promo Minggu Ini",
+      "image": "https://cdn.jsdelivr.net/gh/rdpamin123/indomaret-grogol-assets/promo/04-promo-minggu-ini.jpg",
+      "caption": "🗓 Promo terbaru minggu ini!"
+    }
+  }
+}
