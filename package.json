@@ -1,0 +1,26 @@
+{
+  "name": "indomaret-grogol-wa-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp promo interaktif untuk Indomaret Grogol",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "promo",
+    "indomaret"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^9.5.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
